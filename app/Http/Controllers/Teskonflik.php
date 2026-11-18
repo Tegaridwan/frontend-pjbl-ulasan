@@ -2,5 +2,5 @@
 namespace App\Http\Controllers;
 
 class Teskonflik{
-    //Ini punyaku dhea
+    //Ini punyaku dhea novikaa
 }
