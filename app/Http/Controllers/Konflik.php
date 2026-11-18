@@ -2,5 +2,5 @@
 namespace App\Http\Controllers;
 
 class Konflik{
-    //Ini punyaku lain
+    //Ini punya dafa sebastian
 }
